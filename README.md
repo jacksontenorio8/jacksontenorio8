@@ -1,6 +1,6 @@
 # Olá! 👋
 
-### Eu me Jackson Tenorio, sou estudante de tecnologia e atualmente moro em Campinas/SP.
+### Eu me **Jackson Tenorio**, sou estudante de tecnologia e atualmente moro em Campinas/SP.
 
 - Gosto de assistir filmes e series sci-fi.
 - Eu tenho interesse em: Programação, CAD, Eletrica, Eletrônica e Mecânica.
