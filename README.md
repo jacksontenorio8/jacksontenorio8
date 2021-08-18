@@ -1,9 +1,13 @@
-# Hi there 👋
+# Olá! 👋
 
-### My name is Jackson Tenorio, I am a technology student and I live in Campinas.
+### Eu me Jackson Tenorio, sou estudante de tecnologia e atualmente moro em Campinas/SP.
 
-- I like sci-fi movies and series.
-- I am interested in: programming, technical drawing, electrical and mechanical.
+- Gosto de assistir filmes e series sci-fi.
+- Eu tenho interesse em: Programação, CAD, Eletrica, Eletrônica e Mecânica.
 
+Conecte-se comigo:
+
+- [Gmail](jacksontenorio8@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/jacksontenorio8/)
 
 
