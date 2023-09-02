@@ -6,6 +6,9 @@
 ![Jackson Tenorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksontenorio8&show_icons=true&theme=radical)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 # Technologies I use in my daily life
 
 
